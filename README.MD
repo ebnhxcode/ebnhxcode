@@ -9,7 +9,7 @@
 
 ### I'm a Full Stack Developer
 
-- 🔭 I'm currently working in Gobierno Digital coding and making tech.
+- 🔭 I'm currently coding and making tech.
 - 🤖 I'm currently improving the experience obtained to specialization.
 - 👯 I'm looking to collaborate with others developer to make contents and technology.
 - 💬 Ask me about in my personal website
