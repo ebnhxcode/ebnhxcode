@@ -26,13 +26,6 @@
 
 <br />
 
-### Stats
-<details>
-<img align="left" alt="ebnhxcode's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ebnhxcode&count_private=true&show_icons=true&hide_border=true&theme=onedark" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebnhxcode&count_private=true&langs_count=10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
 ### Developer Specialization:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
