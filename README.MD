@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I'm Esteban [ebnhxcode][website]
+### Hi there 👋, I'm Esteban a Full Stack Developer, alias: [ebnhxcode][website]
 
 [website]: https://github.com/ebnhxcode
 [twitter]: https://twitter.com/ebnhxcode
@@ -9,8 +9,8 @@
 
 ### I'm a Full Stack Developer
 
-- 🔭 I'm currently coding and making tech.
-- 🤖 I'm currently improving the experience obtained to specialization.
+- 🔭 I'm currently work in public service, also in my free times like as hobby coding and making technology for the service of people on CodeGrown.
+- 🤖 I'm currently improving the experience obtained to looking for specialization.
 - 👯 I'm looking to collaborate with others developer to make contents and technology.
 - 💬 Ask me about in my personal website
 - ⚡ Fun fact: I like to program and research, study and take notes, play guitar, play soccer and play video games to generate ideas and skills.
