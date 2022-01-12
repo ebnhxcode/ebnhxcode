@@ -7,8 +7,6 @@
 [linkedin]: https://www.linkedin.com/in/ebnhxcode/
 [instagram]: https://instagram.com/ebnhxcode
 
-### I'm a Full Stack Developer
-
 - 🔭 I'm currently work in public service, also in my free times like as hobby coding and making technology for the service of people on CodeGrown.
 - 🤖 I'm currently improving the experience obtained to looking for specialization.
 - 👯 I'm looking to collaborate with others developer to make contents and technology.
