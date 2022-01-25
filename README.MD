@@ -69,3 +69,4 @@
 <br />
 
 thx
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lilaroky}/count.svg" /></p> 
