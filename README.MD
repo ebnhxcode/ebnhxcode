@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, I'm Esteban a Full Stack Developer, alias: [ebnhxcode][website]
+### Hi there 👋, I'm Esteban, a Full Stack Developer
 
 [website]: https://github.com/ebnhxcode
 [twitter]: https://twitter.com/ebnhxcode
