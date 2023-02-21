@@ -6,7 +6,6 @@
 [twitter]: https://twitter.com/ebnhxcode
 [linkedin]: https://www.linkedin.com/in/ebnhxcode/
 [instagram]: https://instagram.com/ebnhxcode
-[youtube]: https://www.youtube.com/user/EstebanAntonioRamos/playlists
 
 - 🔭 I'm currently work in public service, also in my free times like as hobby coding and making technology for the service of people on CodeGrown.
 - 🤖 I'm currently improving the experience obtained to looking for specialization.
